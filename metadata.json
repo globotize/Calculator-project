@@ -1,0 +1,6 @@
+{
+  "name": "SciCalc Pro",
+  "description": "Advanced scientific calculator with powerful mathematical functions and a sleek dark mode interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
